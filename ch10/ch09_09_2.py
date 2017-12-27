@@ -11,3 +11,5 @@ ws = wb.ActiveSheet
 ws.Cells(1,2).Value = "is"
 ws.Range("C1").Value = "good"
 ws.Range("C1").Interior.ColorIndex = 10
+
+print("test")
